@@ -1,5 +1,8 @@
 # hello-world
-getting started with hello world
+getting started with hello world a spring boot application
 
-Some changes - basic ones
-I'm getting started with github today....
+Have modified the pom.xml, adding maven-compiler-plugin version 3.3
+
+And the build was also successful in TeamCity! Jieppi!!
+
+
